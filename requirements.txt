@@ -1,1 +1,1 @@
-normalizr>=0.1.7
+unidecode==1.4.0

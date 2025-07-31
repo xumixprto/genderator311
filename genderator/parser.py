@@ -2,7 +2,7 @@ import codecs
 import os
 from collections import OrderedDict
 
-from normalizr import Normalizr
+from genderator.normalizr import Normalizr
 
 
 path = os.path.dirname(__file__)
