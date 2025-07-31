@@ -27,22 +27,22 @@ Installation
 ------------
 
 The easiest way to install the latest version is by using pip to pull it
-from `PyPI <https://pypi.python.org/pypi/genderator>`_:
+from `PyPI <https://pypi.python.org/pypi/genderator311>`_:
 
 ::
 
-    pip install genderator
+    pip install genderator311
 
 You may also use Git to clone the repository from Github and install it
 manually:
 
 ::
 
-    git clone https://github.com/davidmogar/genderator.git
+    git clone https://github.com/xumixprto/genderator311.git
     cd genderator
     python setup.py install
 
-Python 3.3 & 3.4 are supported.
+Python 3.11+ are supported.
 
 Usage
 -----
@@ -60,7 +60,8 @@ The next code shows a sample usage of this library:
     else:
         print('Name doesn\'t match')
 
-Output:
+Output
+------
 
 .. code::
 
